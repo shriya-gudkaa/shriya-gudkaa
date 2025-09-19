@@ -1,12 +1,12 @@
 <h1>Hello, I'm Shriya!</h1>
 <p>  
-💡 I love exploring the **logic that powers technology** — from algorithms to databases.  
+💡 I love exploring the logic that powers technology — from algorithms to databases.  
   <br>
-📚 Unraveling the logic behind **SQL, DSA & OS**
+📚 Unraveling the logic behind SQL, DSA & OS
   <br>
-🌱 My current journey: mastering **C, Python, SQL & Web Development**.
+🌱 My current journey: mastering C, Python, SQL & Web Development.
   <br>
-⚡ What drives me: **curiosity, creativity, and continuous learning**.  
+⚡ What drives me: curiosity, creativity, and continuous learning.  
 
 📖 _“Turning errors into lessons and ideas into code.”_
 </p>
