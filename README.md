@@ -1,5 +1,12 @@
 <h1>Hello, I'm Shriya!</h1>
-<p>🐍 Python Enthusiast | 💻 C & Web Developer-in-Training | 📚 Unraveling the logic behind SQL, DSA & OS | Growing Through Every Line of Code</p>
+<p>  
+💡 I love exploring the **logic that powers technology** — from algorithms to databases.  
+📚 Unraveling the logic behind **SQL, DSA & OS**  
+🌱 My current journey: mastering **C, Python, SQL & Web Development**.  
+⚡ What drives me: **curiosity, creativity, and continuous learning**.  
+
+📖 _“Turning errors into lessons and ideas into code.”_
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
