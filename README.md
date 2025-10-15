@@ -2,9 +2,7 @@
 <p>  
 💡 I love exploring the logic that powers technology — from algorithms to databases.  
   <br>
-📚 Unraveling the logic behind SQL, DSA & OS
-  <br>
-🌱 My current journey: mastering C, Python, SQL & Web Development.
+🌱 My current journey: mastering Python, SQL & Web Development.
   <br>
 ⚡ What drives me: curiosity, creativity, and continuous learning.  
 
